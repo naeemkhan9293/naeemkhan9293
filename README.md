@@ -1,59 +1,68 @@
-# Hi, I'm Naeem Khan 👋
+# Hi, I'm Naeem Khan
 
-**Full Stack AI Engineer** based in Pakistan 🇵🇰  
-Building production AI systems — chatbots, RAG pipelines, LLM agents, and scalable web platforms.
+I'm a **Full Stack Engineer** from Pakistan, working mainly with **React, Next.js, Node.js, TypeScript, and MongoDB**.
 
----
+I enjoy building complete products — from responsive interfaces and backend APIs to real-time applications and AI-powered features. Recently, much of my work has involved integrating **LLMs, RAG, AI agents, and automation** into production web applications.
 
-## 🤖 What I build
+## What I work with
 
-- **AI Chatbots & Agents** — LangChain, LangGraph, RAG, tool-calling agents, OpenAI, Gemini
-- **Full Stack Web Apps** — React, Next.js, Node.js/Express, TypeScript
-- **Backend APIs** — FastAPI (Python), NestJS, REST, GraphQL
-- **Cloud & DevOps** — AWS, Google Cloud Run, Docker, CI/CD
-- **Databases** — MongoDB, PostgreSQL, Redis
+**Frontend**
+React · Next.js · TypeScript · Tailwind CSS
 
----
+**Backend**
+Node.js · Express · NestJS · FastAPI · REST APIs · GraphQL
 
-## 🚀 Featured Projects
+**AI**
+LangChain · LangGraph · OpenAI · Gemini · RAG · Embeddings · Tool Calling
 
-### [Mosafir.pk](https://mosafir.pk) — AI Travel Chatbot (Production)
-WhatsApp & SMS-based travel booking assistant for one of Pakistan's largest IATA-certified travel agencies. Handles flight, hotel, visa, and tour package bookings via natural language.  
-**Stack:** LangChain · RAG · Tool-calling agents · MongoDB · Redis · Node.js · TypeScript · Twilio · OpenAI
+**Databases**
+MongoDB · PostgreSQL · Redis
 
-### [Burstmode AI](https://www.burstmode.ai) — AI Image SaaS
-AI-powered photo transformation platform using the Astria API for custom model training. Generates professional headshots, product photography, and social content.  
-**Stack:** Next.js · Node.js · Firebase · Docker · Google Cloud Run · CI/CD
-
-### [Venday](https://venday.co.uk) — Healthcare Staffing Platform
-Connects care providers, hospitals, and staffing agencies for managing temporary healthcare placements.  
-**Stack:** React · Node.js · Express · MongoDB · Socket.io · AWS
-
-### [Biidit](https://biidit.com) — Project Bidding Platform
-Full-stack platform for managing global project bids with real-time updates and Google Maps integration.  
-**Stack:** React · Node.js · MongoDB · Socket.io · AWS · Google Maps API
-
-### [Assistance Chatbot](https://github.com/naeemkhan9293/personal-chatbot) — Multi-capability AI Bot
-Combines web scraping, AI image generation, and canvas-based image editing in one interface.  
-**Stack:** Next.js · FastAPI · LangChain · LangGraph · MongoDB · Selenium
+**Cloud & DevOps**
+AWS · Google Cloud Run · Docker · Vercel · GitHub Actions · CI/CD
 
 ---
 
-## 🛠 Tech Stack
+## Selected Projects
 
-```
-Frontend    React · Next.js · TypeScript · Tailwind CSS · Vite
-Backend     Node.js · Express · FastAPI · NestJS · Python
-AI/ML       LangChain · LangGraph · OpenAI · Gemini · RAG · Embeddings
-Databases   MongoDB · PostgreSQL · Redis
-Cloud       AWS (EC2) · Google Cloud Run · Docker · Vercel · GitHub Actions
-```
+### [Mosafir.pk](https://mosafir.pk)
+
+A travel platform where I worked on an AI-powered conversational booking system for flights, hotels, visas, and tour packages.
+
+The assistant can understand natural-language requests, search available services, collect booking information, and interact with backend tools through conversational workflows.
+
+`LangChain` `RAG` `Node.js` `TypeScript` `MongoDB` `Redis` `OpenAI`
+
+### [Burstmode AI](https://www.burstmode.ai)
+
+An AI-powered image platform for generating professional headshots, product photography, and social media content using custom-trained models.
+
+`Next.js` `Node.js` `Firebase` `Docker` `Google Cloud Run`
+
+### [Venday](https://venday.co.uk)
+
+A healthcare staffing platform connecting care providers, hospitals, and staffing agencies for temporary healthcare placements.
+
+`React` `Node.js` `Express` `MongoDB` `Socket.io` `AWS`
+
+### [Biidit](https://biidit.com)
+
+A project bidding platform with real-time updates, interactive maps, and tools for managing project opportunities.
+
+`React` `Node.js` `MongoDB` `Socket.io` `AWS` `Google Maps API`
+
+### [Assistance Chatbot](https://github.com/naeemkhan9293/personal-chatbot)
+
+An experimental AI application combining conversational AI, web automation, image generation, and image editing.
+
+`Next.js` `FastAPI` `LangChain` `LangGraph` `MongoDB` `Selenium`
 
 ---
 
-## 📫 Let's connect
+## Currently exploring
 
-- 🌐 Portfolio: [fulstackdevloper.online](https://www.fulstackdevloper.online)
-- 💼 LinkedIn: [linkedin.com/in/naeem-khan-b205b8304](https://www.linkedin.com/in/naeem-khan-b205b8304)
-- 💬 WhatsApp: [+92 335 647 8086](https://wa.me/923356478086)
-- 📧 Email: naeemkhan9293g@gmail.com
+I'm particularly interested in building software where traditional web development and AI work together — especially **AI agents, conversational applications, SaaS platforms, automation, and scalable backend systems**.
+
+## Connect
+
+[Portfolio](https://www.fulstackdevloper.online) · [LinkedIn](https://www.linkedin.com/in/naeem-khan-b205b8304) · [WhatsApp](https://wa.me/923356478086) · [naeemkhan9293g@gmail.com](mailto:naeemkhan9293g@gmail.com)
